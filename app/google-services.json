@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476422790100",
+    "project_id": "rutas-9ec2b",
+    "storage_bucket": "rutas-9ec2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476422790100:android:3ddefa57cf66add787d441",
+        "android_client_info": {
+          "package_name": "com.example.seguimientoderutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuVSaOby6ajY3p1a95AXnrMybKTtBGLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
